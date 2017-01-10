@@ -1,0 +1,130 @@
+﻿a,a:link,a:hover,a:visited,.s4-title h1 a,.s4-title h1 a:hover,.s4-title h1 a:visited,.s4-title h2 a,.s4-title h2 a:hover,.s4-title h2 a:visited,.ms-linksection-level1 ul li a,.ms-linksection-level1 ul li a:hover,.ms-linksection-level1 ul li a:visited,.s4-specialNavLinkList a,.s4-specialNavLinkList a:hover,.s4-specialNavLinkList a:visited,.s4-specialNavLinkList a > span.ms-splinkbutton-text,.s4-specialNavLinkList a:hover > span.ms-splinkbutton-text,.s4-specialNavLinkList a:visited > span.ms-splinkbutton-text,.s4-specialNavLinkList a:visited,.ms-menutoolbar td a,.ms-menutoolbar td a:hover,.ms-menutoolbar td a:visited,div.ms-viewselector a,div.ms-viewselectorhover a.ms-menu-a span,.ms-navitem a{/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#333333 !important;text-decoration:none !important;}
+.s4-ca a,.ca a:hover,.s4-ca a:visited {color: #3555E7 !important;text-decoration: underline !important;}
+.s4-ca .ms-vb a,.s4-ca .ms-vb a:link,.s4-ca .ms-vb a:hover,.s4-ca .ms-vb a:visited, .s4-ca .ms-vb2 a,.s4-ca .ms-vb2 a:link,.s4-ca .ms-vb2 a:hover,.s4-ca .ms-vb2 a:visited, .s4-ca .ms-vb-user a,.s4-ca .ms-vb-user a:link,.s4-ca .ms-vb-user a:hover,.s4-ca .ms-vb-user a:visited{/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#333333 !important;text-decoration:none;}
+.s4-title h2{/* [ReplaceColor(themeColor:"Dark1")] */ color:#4C4C4C;}
+/*BreadCrumb*/
+.v4master .s4-breadcrumb-header,.v4master .s4-breadcrumbNode > a,.v4master .s4-breadcrumbCurrentNode > a,.v4master .s4-breadcrumbRootNode > a,.v4master .s4-breadcrumbNode > a:hover,.v4master .s4-breadcrumbCurrentNode > a:hover,.v4master .s4-breadcrumbRootNode > a:hover,.v4master .s4-breadcrumbNode > a:visited,.v4master .s4-breadcrumbCurrentNode > a:visited,.v4master .s4-breadcrumbRootNode > a:visited,.v4master .s4-breadcrumbNode,.v4master .s4-breadcrumbCurrentNode,.v4master .s4-breadcrumbRootNode{/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#333333 !important;text-decoration:none;}
+.ms-ltviewselectormenuheader .ms-viewselector a, .ms-ltviewselectormenuheader .ms-viewselectorhover a{/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#333333 !important;}
+.ms-ltviewselectormenuheader .ms-viewselectorhover{/* [ReplaceColor(themeColor:"Dark1")] */ border-color:#4C4C4C;}
+.s4-breadcrumb-anchor:hover, .s4-breadcrumb-anchor-open, .ms-qatbutton:hover{background-color:transparent;border-color:#DCDCDC;}
+/*Site settings*/
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUILarge ul.ms-MenuUIUL div.ms-MenuUIULItem a.ms-MenuUIULLink,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUILargeRtL ul.ms-MenuUIUL div.ms-MenuUIULItem a.ms-MenuUIULLink,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-menuitemdescription{/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#333333;text-decoration:none;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUIULItemHover{/* [ReplaceColor(themeColor:"Accent3")] */ background:#F3F5F7;/* [ReplaceColor(themeColor:"Dark2")] */ border-color:#9D9E9C;}
+div.ms-MenuUIPopupBody.ms-MenuUIPopupScreen,div.ms-MenuUIPopupBody.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUIPopupBody.ms-MenuUIPopupScreen{border:none;}
+.ms-MenuUIPopupBody{/* [ReplaceColor(themeColor:"Accent1")] */ border-color:#333333;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUIULItemHover,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparator, div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorRtL, div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorLarge, div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorLargeRtl{/* [ReplaceColor(themeColor:"Dark1")] */ background-color:#4C4C4C; }
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUIULItem a.ms-MenuUIULLink{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUIULItemHover a.ms-MenuUIULLink{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUIULItemHover,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparator,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorRtL,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorLarge,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorLargeRtl{/* [ReplaceColor(themeColor:"Accent3")] */ background:#F3F5F0;}
+/*WebPart*/
+.ms-WPTitle,.ms-WPTitle A:link,.ms-WPTitle A:visited,.s4-ca .ms-WPTitle,.s4-ca .ms-WPTitle A:link,.s4-ca .ms-WPTitle A:visited{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;font-size: 18px;font-weight: normal;line-height: 24px;text-decoration:none !important;}
+.ms-WPHeader TD{border-bottom:none !important;}
+.ms-WPBorder, .ms-WPBorderBorderOnly{border-color:#DBDDDE;border-style: solid;border-width: 1px;}
+/*.ms-rte-layoutszone-inner-editable*.ms-rtestate-write .ms-rte-wpbox*/
+.s4-wpcell{border:0px;}
+.ms-rte-layoutszone-inner-editable .s4-wpcell{border:1px dashed #DCDCDC;}
+.s4-wpActive {border:0px;}
+.s4-wpActive .s4-wpTopTable, .s4-wpActive .ms-WPSelected{border-color:#DCDCDC;}
+/*Notification*/
+.s4-noti-noti{border-color:#DCDCDC;}
+.s4-noti-in1{border-color:#AAB4CF;}
+.s4-noti-in2{/* [ReplaceColor(themeColor:"Dark1")] */ color:#4C4C4C;border-top:1px solid #A4A4A4;/* [ReplaceColor(themeColor:"Accent3")] */ background:#F3F5F7;}
+/*GlobalSettings*/
+.ms-propertysheet,.ms-descriptiontext,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUILarge ul.ms-MenuUIUL div.ms-MenuUIULItem a.ms-MenuUIULLink,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUILargeRtL ul.ms-MenuUIUL div.ms-MenuUIULItem a.ms-MenuUIULLink,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-menuitemdescription,.ms-sectionheader,.ms-descriptiontext,.ms-socialNotif-text,.s4-title .s4-pagedescription,.s4-title .s4uniqpermdescription,.s4-title h1,.s4-title h2,.ms-toolbar,.ms-listheaderlabel{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;}
+.ms-linksection-level1 h3{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;font-size: 18px;font-weight: normal;}
+.ms-pageinformation h3.ms-standardheader,.ms-standardheader{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;font-weight: normal;}
+.ms-pageinformation th,.ms-createpageinformation th,.ms-pageinformation table th,.ms-gb{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;font-size: 11px;font-weight: bold;}
+.ms-menutoolbar td td.ms-viewselector,.ms-menutoolbar td td.ms-viewselectorhover,.ms-toolbar td td.ms-viewselector,.ms-toolbar td td.ms-viewselectorhover,td.ms-viewselector{/* [ReplaceColor(themeColor:"Accent1")] */ border-color:#333333;}
+/*Ribbon*/
+.s4-title,body #s4-ribboncont{background:none;}
+.ms-cui-groupTitle{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;}
+#teamplace-globalNavigation-ul .ms-cui-tt-span,.ms-welcomeMenu a,.ms-welcomeMenu a:link,.ms-cui-tt-a,.ms-cui-tt-a,.ms-cui-tt-a:visited,.ms-siteactionsmenuinner > a,.ms-siteactionsmenuinner > a:visited,.ms-siteactionsmenuhover > a,.ms-siteactionsmenuhover > a:visited,.ms-cui-tt-span,.ms-cui-cg-t{color:white !important;cursor:pointer;font-weight:bold !important;}
+.ms-cui-tts > .ms-cui-tt-s > .ms-cui-tt-a > .ms-cui-tt-span,.ms-cui-ct-ul .ms-cui-tt-s .ms-cui-tt-span{/* [ReplaceColor(themeColor:"Dark1")] */ color:#4C4C4C !important;}
+.ms-cui-ct-ul .ms-cui-tt-span,.ms-cui-cg-db.ms-cui-cg-s .ms-cui-tt-a .ms-cui-tt-span,.ms-cui-cg-db.ms-cui-cg-s .ms-cui-tt-a:hover .ms-cui-tt-span{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;}
+/*Search*/
+.s4-search select.ms-sbscopes, .s4-search input.ms-sbplain{/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#333333 !important;}
+/*TopNav*/
+body #s4-ribbonrow{/* [ReplaceColor(themeColor:"Dark2")] */ background-color:#9D9E9C; }
+body #s4-topheader2{background:url("/_layouts/TeamPlace/top_nav_background.png");border-color:#DCDCDC;}
+.s4-toplinks .s4-tn a.selected{background:none;border:none;}
+.s4-tn li.static > .menu-item,.s4-toplinks .s4-tn a.selected,.s4-toplinks .s4-tn a.selected:hover,.s4-toplinks .s4-tn a.selected:visited{background:url("/_layouts/teamPlace/top_nav_separator.png") no-repeat scroll right top transparent;color:#333333;padding:4px 17px 4px 10px;}
+.s4-toplinks .s4-tn a.selected,.s4-toplinks .s4-tn a.selected:hover,.s4-toplinks .s4-tn a.selected:visited{background:url("/_layouts/teamPlace/top_nav_separator.png") no-repeat scroll right top transparent;color:#333333;padding:5px 17px 4px 10px;}
+.s4-tn li.static > a:hover{text-decoration:none;}
+/*QuickLaunch*/
+body #s4-leftpanel-content{/* [ReplaceColor(themeColor:"Accent3")] */ background:#F3F5F7;}
+.s4-ql ul.root > li > .menu-item,.s4-qlheader,.s4-qlheader:visited{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;font-family: Verdana,Tahoma,sans-serif;font-size: 11px;font-weight:bold;line-height: 14px;}
+.s4-ql ul.root ul > li > a,.s4-ql ul.root ul > li > a:hover{/*.ms-alternatingstrong: url("/_layouts/teamPlace/internal_link_arrows.png") no-repeat scroll 5px 7px transparent;*//* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;/*padding-left: 12px;*/text-decoration:none;}
+.s4-ql ul > li > a:hover,.s4-ql ul.root > li > a:hover,.s4-qlheader:hover{text-decoration:none;}
+body #s4-leftpanel-content,.s4-specialNavLinkList,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUIULItemHover a span.ms-menuitemdescription{border-color:#DCDCDC;}
+.ms-datepickerouter .ms-quickLaunch {border-color:/* [ReplaceColor(themeColor:"Light2")] */ #F4F5F7;}
+.s4-ql a.selected{background-color:#AAB4CF;/* [ReplaceColor(themeColor:"Dark1")] */ border-color:#4C4C4C !important;}
+/*Menus*/
+.ms-siteactionsmenuhover,.ms-welcomeMenu.ms-SpLinkButtonActive{/* [ReplaceColor(themeColor:"Dark2")] */ background-color:#9D9E9C;}
+a.ms-addnew{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;text-decoration:none !important;}
+.ms-rte-layoutszone-inner-editable{border-color:#DCDCDC;}
+.ms-partline{background:none !important;border:none;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparator, div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorRtL, div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorLarge, div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorLargeRtl{border-color:#DCDCDC;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUIULItemHover,.ms-siteactionsmenuhover,  div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL{border-color:#DCDCDC;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUILarge ul.ms-MenuUIUL, div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUI ul.ms-MenuUIUL{border-color:#DCDCDC;}
+div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner div.ms-MenuUILarge ul.ms-MenuUIUL{ background-image:url("mgradlarge-241F7208.png")}
+/*Grid*/
+td.ms-linksectionheader, th.ms-linksectionheader{/* [ReplaceColor(themeColor:"Light2")] */ background:#F4F5F7;/* [ReplaceColor(themeColor:"Accent1")] */ border-color:#333333;}
+.ms-viewlsts th.ms-vh2-nofilter,th .ms-vb,.ms-vh2-nofilter-icon, th.ms-vh2-nograd,th.ms-vh2-nograd-icon{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;text-decoration:none !important;}
+.ms-viewlsts .ms-vb2 > a,.ms-vh,.ms-vh2,.ms-vh a,.ms-vh a:hover,.ms-vh a:visited,.ms-vh2 a,.ms-vh2 a:hover,.ms-vh2 a:visited,.ms-vb,.ms-vb2,.ms-vb-user,.ms-vb-tall,.ms-pb,.ms-pb-selected{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;text-decoration:none !important;}
+.ms-alternatingstrong{background:#F3F5F7;}
+.ms-bottompaging .ms-paging{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;}
+table.ms-listviewtable tbody tr.s4-itm-selected td.ms-vb-firstCell, table.ms-listviewtable tbody tr.s4-itm-selected:hover td.ms-vb-firstCell,tr.s4-itm-selected > td, tr.s4-itm-selected:hover > td,table.ms-listviewtable tbody tr.s4-itm-selected td.ms-vb-lastCell, table.ms-listviewtable tbody tr.s4-itm-selected:hover td.ms-vb-lastCell{/* [ReplaceColor(themeColor:"Dark1")] */ border-color:#4C4C4C !important;}
+table.ms-listviewtable tbody tr.s4-itm-hover td.ms-vb-firstCell, table.ms-listviewtable tbody tr.ms-itmhover:hover td.ms-vb-firstCell,tr.s4-itm-hover > td, tr.ms-itmhover:hover > td{/* [ReplaceColor(themeColor:"Dark1")] */ border-color:#4C4C4C !important;}
+tr.s4-itm-selected, tr.s4-itm-selected:hover{/* [ReplaceColor(themeColor:"Accent3")] */ background:#F3F5F7;}
+tr.s4-itm-hover, tr.ms-itmhover:hover, tr.ms-ppanerow:hover > td, tr.ms-ppanerowalt:hover > td{/* [ReplaceColor(themeColor:"Accent3")] */ background:#F3F5F0;}
+.s4-ctx-show{background-color:#DCDCDC;/* [ReplaceColor(themeColor:"Dark1")] */ border-color:#4C4C4C !important;}
+.s4-ctx-show:hover,.ms-WPHeaderTdMenu:hover{background-color:#AAB4CF;/* [ReplaceColor(themeColor:"Dark1")] */ border-color:#4C4C4C !important;}
+/*Fonts*/
+body{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;}
+.ms-rteElement-H1B{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;font-size: 18px;font-weight: normal;line-height: 24px;}
+.ms-rteStyle-Highlight{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;font-weight:bold;}
+.ms-rteStyle-Byline{color:#999999;font-style:italic;}
+.ms-rteStyle-Tagline{color:#999999;}
+.ms-rteStyle-References{color:#999999;}
+.ms-rteStyle-Comment{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;text-shadow:0px 0px 5px #999999;}
+.ms-rteElement-P{color:#999999;}
+.ms-rteElement-Callout1{/* [ReplaceColor(themeColor:"Accent4")] */background-color:#F3F5F0;border:1px solid #DCDCDC;/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;float:left;}
+.ms-rteElement-Callout2{/* [ReplaceColor(themeColor:"Accent4")] */background-color:#F3F5F0;border:1px solid #DCDCDC;/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;float:right;}
+.ms-rteElement-Callout3{/* [ReplaceColor(themeColor:"Accent4")] */background-color:#F3F5F0;border:1px solid #DCDCDC;/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;float:right;}
+.ms-rteElement-Callout4{/* [ReplaceColor(themeColor:"Accent4")] */background-color:#F3F5F0;border:none;/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333;float:right;}
+/*Form*/
+.ms-inputuserfield{border-color:#676767;}
+/*Calendar*/
+.ms-acal-display,.ms-acal-month-top,.ms-acal-summary-dayrow td div,.ms-acal-sdiv, .ms-acal-mdiv,.ms-acal-ddiv,.ms-acal-apanel-title span,.ms-acal-apanel-item span,table.ms-picker-table td.ms-picker-dayselected,.ms-picker-month{/* [ReplaceColor(themeColor:"Accent1")] */ color:#333333 !important;}
+.ms-acal-week-top td.ms-acal-hover div, .ms-acal-summary-dayrow td.ms-acal-hover div, .ms-acal-summary-dayrow th.ms-acal-hover{text-decoration:none;}
+.ms-acal-sdiv a, .ms-acal-mdiv a, .ms-acal-ddiv a{/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#333333;text-decoration:none;}
+.ms-quickLaunch table.ms-picker-table td.ms-picker-monthselected,.ms-acal-apanel-item,.ms-acal-default-hover,.ms-acal-item,tr td div.ms-acal-today,table.ms-picker-table td.ms-picker-today{background-color:#AAB4CF;/* [ReplaceColor(themeColor:"Dark1")] */ border-color:#4C4C4C;}
+.ms-acal-week-top td.ms-acal-hover div, .ms-acal-summary-dayrow td.ms-acal-hover div, .ms-acal-summary-dayrow th.ms-acal-hover,table.ms-picker-table td.ms-picker-dayselected{background-color:#DCDCDC;/* [ReplaceColor(themeColor:"Dark1")] */ border-color:#4C4C4C !important;}
+.ms-picker-table .ms-picker-daycenterOn{background-color:#DCDCDC;}
+.ms-acal-apanel-item span,.ms-acal-sdiv, .ms-acal-mdiv, .ms-acal-ddiv{/* [ReplaceColor(themeColor:"Dark1")] */ color:#4C4C4C;}
+.ms-picker-table .ms-picker-dayheader{/* [ReplaceColor(themeColor:"Dark1")] */ border-color:#4C4C4C !important;}
+.ms-acal-color1{background-color: #FEF8D6;}
+.ms-acal-color2{background-color: #D0FFBC;}
+.ms-acal-color3{background-color: #FEEBCD;}
+.ms-acal-color4{background-color: #C8F0FF;}
+.ms-acal-color5{background-color: #FFC8E8;}
+.ms-acal-color6{background-color: #BEE5FF;}
+.ms-acal-color7{background-color: #E0E8F2;}
+.ms-acal-color8{background-color: #D9DDE1;}
+.ms-acal-color9{background-color: #F2F2F2;}
+.ms-acal-apanel-color1 {background-color: #FEF8D6;border-color: #FDF2AD;}
+.ms-acal-apanel-color2 {background-color: #D0FFBC;border-color: #A2FF79;}
+.ms-acal-apanel-color3 {background-color: #FEEBCD;border-color: #FED89C;}
+.ms-acal-apanel-color4 {background-color: #C8F0FF;border-color: #92E1FF;}
+.ms-acal-apanel-color5 {background-color: #FFC8E8;border-color: #FF91D2;}
+.ms-acal-apanel-color6 {background-color: #BEE5FF;border-color: #7ECCFF;}
+.ms-acal-apanel-color7 {background-color: #E0E8F2;border-color: #B3C7DE;}
+.ms-acal-apanel-color8 {background-color: #D9DDE1;border-color: #B0B8C0;}
+.ms-acal-apanel-color9 {background-color: #F2F2F2;border-color: #D8D8D8;}
+/*ModalPopUp*/
+.ms-dlgContent,.ms-dlgBorder{border-color:#DCDCDC;}
+/*Themes hack*/
+#ctl00_PlaceHolderMain_ctl82_customizeThemeSection{display:none;}
+/*Blog*/
+.ms-PostTitle a,.ms-PostTitle a:hover,.ms-PostTitle a:visited,.s4-ca .ms-PostTitle a,.s4-ca .ms-PostTitle a:hover,.s4-ca .ms-PostTitle a:visited{/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#333333 !important;text-decoration:none !important;}
+div.ms-blogAdminLinks a,div.ms-blogAdminLinks a:visited,div.ms-blogAdminLinks a:hover{/* [ReplaceColor(themeColor:"Hyperlink")] */ color:#333333 !important;text-decoration:none;}

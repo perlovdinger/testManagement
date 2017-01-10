@@ -1,0 +1,23 @@
+Building blocks
+---------------
+
+"Building blocks are shared under a group, each sub-group will have access to the same standard building blocks.
+Test Management  (Tests) are only visible  inside a sub-group.
+It should be possible to belong to multiple groups." 
+
+
+*** standard building blocks
+*** building blocks
+
+
+Building block management
+	test cases
+	Sequences
+	Routines
+	Test method
+	Temp Test Case
+
+Test Management
+	Start Test
+	Follow Test	
+	

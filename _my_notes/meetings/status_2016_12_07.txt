@@ -1,0 +1,43 @@
+1.5 år sedan
+vad vill vi vill ha i de nya verktygen
+user story mest vad som är nytt - inte så mycket
+krav
+non-functional krav
+---------------------------------------------------------
+kritiska
+test case - per produkt
+
+measure logger   <-> Test case
+ 
+annan struktur för test_sequence /Test sequence
+
+ändra refiner protus
+minimera input från användare
+
+sw ändras i specifik ECU
+
+användar gränssnitt
+
+AERT gänget  (titta på appen)
+
+offline     
+	förädra resultat 
+	förädla result
+	
+	plattan kopplad till mät systemet
+	device <---> mätlog
+		
+-----------------------------------------------------------       
+kraven kopplade till FRS    -> SE-tool 
+-----------------------------------------------------------
+
+categorize av test case
+
+temporary test case
+
+-------------------------------------------------------------
+protus report vill rapportera på "komponent nivå" part
+test case på part nivå ???
+-------------------------------------------------------------
+
+

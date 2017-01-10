@@ -1,0 +1,30 @@
+VCE
+hällered    	PVT MANAGER
+kund siter
+RG ute hos kund
+pilot
+
+i början av 2016 start
+A60 Dumper (pilot)   
+	7 st noder/ECU
+	5-6 CAN bus
+Ultra 
+Mlogger
+RDM
+paket med CAM loggar
+	ljud
+	ingen kamera
+------------------------------------------------------					  
+hemma snickeri 
+	fel-rapporter
+------------------------------------------------------
+KOLA bara i produktion
+------------------------------------------------------
+logg - bok
+	fel händelser
+------------------------------------------------------
+
+
+
+	
+

@@ -1,0 +1,24 @@
+SE-tool
+	
+	
+PreReq	
+		COR
+		
+			FRS(functional Req Spec)
+			LDS  (per ECU)   program vara iu ECU   leverantörs spec        SE-TOOL
+
+Logical design spec   
+   logicla design components
+   
+  TEA2 +
+
+från och med 2540
+TSP
+
+base line
+
+
+
+
+ 
+   

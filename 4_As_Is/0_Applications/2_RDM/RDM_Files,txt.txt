@@ -1,0 +1,50 @@
+Truck. 756400_Norway_1
+	Ultra Measurements
+		Files
+			756400_Norway_1_2016-03-06_183000_TO_2016-04-05_122959.zip
+				2016-03-15_063606
+						756400_Norway_1_2016-03-15_063606_TO_2016-03-15_235959.dat
+							|CT,1,33,1,7,Vehicle,15,756400_Norway_1,0,;
+							|CT,1,31,1,3,Vin,17,YV2RZZ0D8EA756400,0,;
+							|CT,1,23,1,7,Country,6,Sweden,0,;
+							|CT,1,36,1,12,Manufacturer,12,Volvo Trucks,0,;
+							|CT,1,41,1,7,Factory,23,Volvo Truck Corporation,0,;
+							|CT,1,25,1,10,Model year,4,2014,0,;
+							|CT,1,23,1,6,Engine,7,D16G750,0,;
+							|CT,1,20,1,3,Cab,7,TYPE-FH,0,;
+							|CT,1,18,1,5,Drive,3,6*4,0,;
+							|CT,1,30,1,13,Chassi number,6,756400,0,;
+							Data ..	
+=====================================================================================================		
+Truck. 7905LH_Breda
+	MLOG Measurements
+		Files
+			7905LH_Breda_2016-08-24_183000_TO_2016-08-26_182959.zip
+				7905LH_Breda_2016-08-25_111834_TO_2016-08-25_121235.dat
+					|CF,2,1,1;|CK,1,3,1,1;
+					|NO,1,39,1,20,rdm-signals-to-famos,10,RDM Parser;
+					|CB,1,16,1,9,meta_data,0,;
+					|CT,1,30,1,7,Vehicle,12,7905LH_Breda,0,;
+					|CT,1,31,1,3,Vin,17,YV3T1U222G1176411,0,;
+					|CT,1,24,1,7,Country,7,Missing,0,;
+					|CT,1,30,1,12,Manufacturer,7,Missing,0,;
+					|CT,1,24,1,7,Factory,7,Missing,0,;
+					|CT,1,28,1,10,Model year,7,Missing,0,;
+					|CT,1,23,1,6,Engine,7,Missing,0,;
+					|CT,1,20,1,3,Cab,7,Missing,0,;
+					|CT,1,22,1,5,Drive,7,Missing,0,;
+					|CT,1,31,1,13,Chassi number,7,Missing,0,;
+					|CT,1,25,1,8,Setup id,7,Missing,0,;
+					|CS,1,2,1,;
+					|CS,1,2,2,;
+					|CG,1,5,2,2,2;
+					|CD,1,15,0.25,1,0,,0,0,0;
+					|NT,1,18,25,8,2016,11,18,34;
+					|CC,1,3,1,1;
+					|CP,1,16,1,4,7,32,0,0,1,0;
+					|Cb,1,24,1,0,1,3,0,12,0,12,0,0,0,;
+					|CR,1,10,0,0,0,1,0,;
+					|CN,1,37,0,0,0,11,state_AREA5,13,21897 - AREA5;
+					|CC,1,3,2,1;
+					Data ..	
+=====================================================================================================		

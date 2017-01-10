@@ -1,0 +1,13 @@
+Update Strategy for testSpecification
+
+1: Create Test,TestSpecification,TestMethod,TestCase.... for each TestRequest
+2: 
+   a:Create components beforehand (TestSequence,TestCase,,,)
+   b:Create Test,TestSpecification
+	  - reUse components	
+      - being able to edit/change things - without effecting other Test
+3:	  
+   a:Create TestCase beforeHand)
+   b:Create Test,TestSpecification
+	  - reuse TestCase 
+      - being able to edit/change things - without effecting other Test

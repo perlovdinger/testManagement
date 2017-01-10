@@ -1,0 +1,12 @@
+A TestRequest can have multiple Test
+A Test can be connected to 1 TestObject
+A Test can be connected to 1 TestRequest
+
+A Test can be connected to 1 TestSpecification
+A TestSpecification can be connected to 1 Test
+
+A TestSpecification can have multiple TestProcedure
+A TestSpecification can have 1 TestProtocol
+
+
+
