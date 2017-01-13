@@ -1,0 +1,8 @@
+Product Verification & Validation
+	CAE  - computer aided engineering
+		Numerical test objects
+        Not used for validation
+    Lab testing
+		Material test objects
+        Used for validation                    
+    Field Testing world wide

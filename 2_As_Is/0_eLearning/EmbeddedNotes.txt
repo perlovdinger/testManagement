@@ -1,0 +1,13 @@
+EPTS
+	Embedded software – Production Tools & Systems
+                             Central systems
+                                                          TSP – Truck Specification
+                                                          CVSP: Central Vehicle specification
+                                                          PPS: Product Packaging Service
+                                                          Tool  Support
+                             Local tools
+                                                          PROSIT+
+                                                                                       Handling of Embedded software(ESW)  in production
+                                                                                       TEA2 , TEA2+ (Electronic Architecture)
+                                                          Used for:
+                                                                                       Program (download software),check,test,alter parameters,,,

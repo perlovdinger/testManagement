@@ -1,0 +1,16 @@
+MLOGGER
+       filformat = ascii / Binär                                                          
+ULTRA  -> FAS-Filer 
+Traffic is logged on up to 12 CANbuses                                       
+
+----------------------------------------------------------
+D01,T01 kopplade till eFacts
+
+Trafic group defines what CAN bus to listen to
+
+T01                      - T010019999.bin     -eFacts
+T02 - T020019999.bin     - ?   
+T03
+T04
+T05
+T06
