@@ -84,8 +84,12 @@
 <node CREATED="1484204696347" ID="ID_74769696" MODIFIED="1484204697564" TEXT="New functionality have been frequently added as well as the global complexity "/>
 <node CREATED="1484204718069" ID="ID_888203690" MODIFIED="1484204719036" TEXT="The current tools can be used as a good reference, new foundation is critical "/>
 </node>
+<node CREATED="1484210800312" ID="ID_460934806" MODIFIED="1484210809801" TEXT="Extended scope">
 <node CREATED="1484204352373" ID="ID_798014695" MODIFIED="1484204353590" TEXT="supporting a wider usage for other areas like AET/RT"/>
+</node>
+<node CREATED="1484210765811" ID="ID_493989217" MODIFIED="1484210785746" TEXT="support for software based services">
 <node CREATED="1484204516340" ID="ID_745299699" MODIFIED="1484204517807" TEXT="Tool to take care of incoming field test data for functional testing often software based services "/>
+</node>
 <node CREATED="1484205305032" ID="ID_268970316" MODIFIED="1484205327213" TEXT="The system shall support flexibility, efficiency and shall be easy to adapt to global diversity, rapid technology growth in products and unique project demands">
 <node CREATED="1484205326293" ID="ID_100751842" MODIFIED="1484205326293" TEXT="Test cases are frequently edited, added and deleted at all six sites, new setup needed to keep global test value (Q, D, C, F)"/>
 <node CREATED="1484205343212" ID="ID_1502188605" MODIFIED="1484205344382" TEXT="The tools need to support new test methods and test execution. More efficient work flow and quality of information to describe symptons in products to developers and suppliers "/>

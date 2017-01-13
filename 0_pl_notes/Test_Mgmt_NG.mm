@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1476177302966" ID="ID_1730115274" MODIFIED="1476185792646" TEXT="Test_Mgmt_NG">
 <node CREATED="1476177493710" ID="ID_1230004426" MODIFIED="1484170808525" POSITION="right" TEXT="people">
-<node CREATED="1476701523447" ID="ID_772579732" MODIFIED="1483534419997" TEXT="FVV (Feature Verification &amp; Validation (Lars Sundberg)">
+<node CREATED="1476701523447" ID="ID_772579732" MODIFIED="1484223930905" TEXT="FVV (Feature Verification &amp; Validation (Lars Sundberg)">
 <node CREATED="1476701523450" ID="ID_1196547641" MODIFIED="1476701523450" TEXT="Global Virtual &amp; Physical Testing Technology(Lars Forsman)">
 <node CREATED="1476701523453" ID="ID_1768963462" MODIFIED="1476701523453" TEXT="PVT(">
 <node CREATED="1476701523456" ID="ID_1677307347" MODIFIED="1476701523456" TEXT="Arto Mattila - Global PVT Manager"/>
