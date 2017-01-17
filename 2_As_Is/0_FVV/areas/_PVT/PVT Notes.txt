@@ -1,0 +1,88 @@
+PVT test methods hard to add. PVT Development, 
+PVT Distribution and PVT Road Approval 
+needs to be added, more coming
+------------------------------
+tea2 +
+mycket mjukvara i bilen
+PVT development
+"svårt att ändra i systemet"
+process perspektiv
+-------------------------------------
+"loan TO"
+testobject 600 i världen
+200 i Sverige
+-------------------------------------
+
+JIRA för förstudie ?
+-------------------------------------
+provfall = testcase
+ghost/test request   ()
+SPEC = variant sträng
+----------------------------------------
+truck function = 10
+E2EF EE  = 180
+EUF - End user function
+----------------------------------------
+COTS
+                             test                     
+project specifik test . tex android
+
+---------------------------------
+development
+check_               
+-----------------------------------
+koppla testfall mot krav
+-----------------------------------
+
+                             
+
+From: Lövdinger Per 
+Sent: den 20 oktober 2016 2:48
+To: Lövdinger Per
+Subject: RE: xx
+
+1.1 project meeting 
+   test request
+1.2 Functional requirement (SE-tool)
+
+
+2: Create temporary test-cases no connection to test-sequence
+     Instruction book
+
+3.1 koppla till rätt fordon var problem
+
+
+
+
+
+From: Lövdinger Per 
+Sent: den 20 oktober 2016 12:14
+To: Lövdinger Per
+Subject: xx
+
+test code
+pvt check pvt base pvt haulage pvt development FT PVT
+---> default sequence
+---------------------------
+Vehicle spec variant string
+product class
+---------------------------
+testobject has a product class
+---------------------------
+
+
+
+
+________________________________________
+Per Lövdinger
+IT Architect 
+IT Consulting Sweden Architecture
+Shared IT Services, IT Consulting
+Volvo Group IT
+Department DE85250
+SE - 405 08, Gothenburg Sweden
+
+Office:   +46 31 3223436
+Mobile: +46 739023436
+E-mail: per.lovdinger@volvo.com
+

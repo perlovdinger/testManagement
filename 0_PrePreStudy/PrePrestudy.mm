@@ -65,10 +65,10 @@
 </node>
 <node CREATED="1484204132103" ID="ID_1219789801" MODIFIED="1484204140718" TEXT="Productivity">
 <node CREATED="1478632957837" ID="ID_1743530342" MODIFIED="1478632958396" TEXT="Inefficient work flow. ">
-<node CREATED="1484205117095" MODIFIED="1484205117095" TEXT="Require a lot of manual work"/>
-<node CREATED="1484205117095" MODIFIED="1484205117095" TEXT="Many hours can be spent to correct a single mistake by a user done during the manual work."/>
-<node CREATED="1484205117095" MODIFIED="1484205117095" TEXT="Tools are hard to understand (developed for approx 10 users)"/>
-<node CREATED="1484205117095" MODIFIED="1484205117095" TEXT="Managing test cases require more than one resource 100%"/>
+<node CREATED="1484205117095" ID="ID_1552169161" MODIFIED="1484205117095" TEXT="Require a lot of manual work"/>
+<node CREATED="1484205117095" ID="ID_326961957" MODIFIED="1484205117095" TEXT="Many hours can be spent to correct a single mistake by a user done during the manual work."/>
+<node CREATED="1484205117095" ID="ID_1935150998" MODIFIED="1484205117095" TEXT="Tools are hard to understand (developed for approx 10 users)"/>
+<node CREATED="1484205117095" ID="ID_1776221247" MODIFIED="1484205117095" TEXT="Managing test cases require more than one resource 100%"/>
 </node>
 <node CREATED="1478632992399" ID="ID_329883230" MODIFIED="1478632993008" TEXT="Cut lead time "/>
 <node CREATED="1478633000132" ID="ID_1402709003" MODIFIED="1478633000671" TEXT="Improved way of working "/>
@@ -84,7 +84,7 @@
 <node CREATED="1484204696347" ID="ID_74769696" MODIFIED="1484204697564" TEXT="New functionality have been frequently added as well as the global complexity "/>
 <node CREATED="1484204718069" ID="ID_888203690" MODIFIED="1484204719036" TEXT="The current tools can be used as a good reference, new foundation is critical "/>
 </node>
-<node CREATED="1484210800312" ID="ID_460934806" MODIFIED="1484210809801" TEXT="Extended scope">
+<node CREATED="1484210800312" ID="ID_460934806" MODIFIED="1484656377163" TEXT="Extended scope">
 <node CREATED="1484204352373" ID="ID_798014695" MODIFIED="1484204353590" TEXT="supporting a wider usage for other areas like AET/RT"/>
 </node>
 <node CREATED="1484210765811" ID="ID_493989217" MODIFIED="1484210785746" TEXT="support for software based services">

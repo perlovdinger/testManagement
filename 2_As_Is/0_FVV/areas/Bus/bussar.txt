@@ -1,0 +1,46 @@
+ultra    (som modem)
+M-logger   -.>  efacts
+
+9-system
+
+RDM 
+	positoin
+	mätarställning
+	fel-koder 
+------------------
+
+routa data till rätt mottagare
+
+
+m-loggert  
+		auto trigger på felkod
+		trycker på knappen
+	
+	in csv	
+vision
+	grafer
+	
+
+vilka signaler man vill se
+
+-----------------------------------------------------------
+routa 	
+	
+brist i RDM
+		bara stöd för TEA+
+		inte stöd TEA2 (F)
+
+ladda upp programmvara till ECU remote.
+
+20 tal mjukvaRA
+-------------------------------------------------------------
+prod prosit
+after marknad tech-tool
+----------------------------------------------
+utläsning 
+-------------------------------------------------------------------------
+
+2540	TEA2+
+	el verifierngar
+-------------------------------------------------------------------------
+	

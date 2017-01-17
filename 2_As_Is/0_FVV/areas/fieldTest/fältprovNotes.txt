@@ -1,0 +1,43 @@
+﻿
+powertraIN
+Leasade bilar
+förfrågan från projektet
+bil kör ofta 2 år
+- månatlig test-kontroll
+- akuta fel
+
+Använder RDM 
+
+Efact 	
+   el fel
+   mekaniska fel
+
+1: ren utveckling provning
+	RDM
+		bättre och bättre
+		förare trycker på knappen
+		stänger av bilen 
+			packar filen i små paket
+		sätter på bilen	
+			
+2: pvp provning
+3: fält provning
+--------------------------------------
+Ultra		(kontinuerlig loggning)    mot VCN    GPS 
+M-Log
+---------------------------------------
+projekt med bilar 
+	felkoder  som projektet
+mil tal och motor timmar saknas i applikation finns i logg
+-------------------------------------------------------
+
+status 
+fel rapport
+
+
+Protus rapport / per component
+
+
+
+
+	
