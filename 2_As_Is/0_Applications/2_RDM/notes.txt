@@ -1,4 +1,4 @@
-M-Log     version 356
+﻿M-Log     version 356
   firm ware uppdateringar versioner
   vad händer 
 	tidsangivelser,stämplar	
@@ -15,7 +15,6 @@ wifi hotspot
 offline data
 25 % data som inte använts
 -------------------------------------------------------------------------
-
 M-Log
 	mea.zpi
 		T01001.bin    CAN Filer     event all trafik för alla CANBUS
@@ -27,7 +26,6 @@ M-Log
 				
 --------------------------------------------------------------------------
 chassi nr
-
 UDS		Unified Diagnostics
 	VIN no  
 	HW

@@ -1,0 +1,22 @@
+Rafael init Arch review 
+
+Runtime
+	RDM
+		PostgreSQL     max (24 TB)
+						increases with 100 GB /week						
+	Problem:
+		Size of data
+			what data should be saved ?			
+				
+ 			
+		Java Script solution
+		defect takes long time
+		do not want to invest in old solution
+		
+	Lars Forman suggested COTS
+
+	efact/pvt mgr stable
+		
+7 developers in dev team
+---------------------------------------------------------		
+		
