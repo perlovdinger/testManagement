@@ -1,0 +1,36 @@
+RDM
+	PostgreSQL
+		current (xx TB ? )
+		max (24 TB)
+		increases ith 100 GB /week						
+		Problem:
+		Size of data
+			what data should be saved ?
+		Do we know if the problem is the Maximum Database Size/Maximum Table size ?
+		https://www.postgresql.org/about/		
+			Limit   Value
+			Maximum Database Size       Unlimited
+			Maximum Table Size          32 TB		
+			
+		What is the max size of Oracle database according to HCL	
+			
+-----------------------------------------------------------------------------
+Alternatives:
+1: Stay with PostgreSQL and Remove Data
+				- remove old data
+				- wait for new GTDM solution
+				
+2: Convert database to Oracle
+				- what is max size in TB ? 
+				- remove old Data ?
+				- migration activities
+				- licence cost
+				- wait for new GTDM solution	
+			
+-----------------------------------------------------------------------------			
+ Nylin Martin
+"I received a mail from dba helena where she said they will probably decrease our 
+support level to basic and in the future they might not support us at all since our 
+db does not meet their requirements/recommendations."			
+-----------------------------------------------------------------------------
+GTDM ?

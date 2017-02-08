@@ -62,6 +62,5 @@
 </node>
 </node>
 </node>
-<node CREATED="1484915337781" ID="ID_1694811825" MODIFIED="1484915337781" POSITION="right" TEXT=""/>
 </node>
 </map>

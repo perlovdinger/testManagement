@@ -1,0 +1,27 @@
+Create TestCase
+	Associate TruckFunction
+	Associate Variant(s)
+
+Create Sequence	
+	Add TestCase (s) in wanted order
+
+-----------------------------------------------	
+Create Test
+	Create TestMethod(s)
+		Add Routine or Sequence		
+		
+----------------------------------------------		
+
+Test is defined as :
+	* TestMethod (oid)
+		* TestMethodStep (oid)
+				* TestRoutineVersion (oid)
+				* Sequence
+						* TestCaseVersion (oid)
+
+TestDefinition xml						
+----------------------------------------------						
+
+
+		
+		

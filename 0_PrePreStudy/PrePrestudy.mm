@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1478632739879" ID="ID_1185136024" MODIFIED="1478643982212" TEXT="Uppdraget">
 <node CREATED="1478633046244" ID="ID_593509026" MODIFIED="1478680623822" POSITION="right" TEXT="input">
-<node CREATED="1478632820865" FOLDED="true" ID="ID_292320798" LINK="H:\My Documents\_WorkH\_Test Mgmt_NG\5_To_Be\1_prestudy\A3 Tool for CV Testing has become out_of_date.pptx" MODIFIED="1484205688930" TEXT="A3 Tool for CV Testing has become out_of_date.pptx">
+<node CREATED="1478632820865" ID="ID_292320798" LINK="H:\My Documents\_WorkH\_Test Mgmt_NG\5_To_Be\1_prestudy\A3 Tool for CV Testing has become out_of_date.pptx" MODIFIED="1486555908965" TEXT="A3 Tool for CV Testing has become out_of_date.pptx">
 <node CREATED="1478632855880" ID="ID_1325434310" MODIFIED="1484204185872" TEXT="Current Situation">
 <node CREATED="1478632908668" ID="ID_746672927" MODIFIED="1478632909632" TEXT="Applications are not reliable "/>
 <node CREATED="1478632918824" ID="ID_1461277331" MODIFIED="1478632922283" TEXT="Continuous improvements and new ways of working not supported "/>
@@ -64,22 +64,21 @@
 <node CREATED="1478632908668" ID="ID_1150326989" MODIFIED="1478632909632" TEXT="Applications are not reliable "/>
 </node>
 <node CREATED="1484204132103" ID="ID_1219789801" MODIFIED="1484204140718" TEXT="Productivity">
-<node CREATED="1478632957837" ID="ID_1743530342" MODIFIED="1478632958396" TEXT="Inefficient work flow. ">
+<node CREATED="1478632957837" ID="ID_1743530342" MODIFIED="1486555784140" TEXT="Inefficient work flow. ">
 <node CREATED="1484205117095" ID="ID_1552169161" MODIFIED="1484205117095" TEXT="Require a lot of manual work"/>
 <node CREATED="1484205117095" ID="ID_326961957" MODIFIED="1484205117095" TEXT="Many hours can be spent to correct a single mistake by a user done during the manual work."/>
 <node CREATED="1484205117095" ID="ID_1935150998" MODIFIED="1484205117095" TEXT="Tools are hard to understand (developed for approx 10 users)"/>
 <node CREATED="1484205117095" ID="ID_1776221247" MODIFIED="1484205117095" TEXT="Managing test cases require more than one resource 100%"/>
 </node>
 <node CREATED="1478632992399" ID="ID_329883230" MODIFIED="1478632993008" TEXT="Cut lead time "/>
-<node CREATED="1478633000132" ID="ID_1402709003" MODIFIED="1478633000671" TEXT="Improved way of working "/>
 </node>
 <node CREATED="1484204146798" ID="ID_1029879660" MODIFIED="1484204151496" TEXT="Traceability"/>
 <node CREATED="1484204158350" ID="ID_550334056" MODIFIED="1484204167501" TEXT="Extendability">
 <node CREATED="1478632918824" ID="ID_489198586" MODIFIED="1478632922283" TEXT="Continuous improvements and new ways of working not supported ">
 <node CREATED="1484204941824" ID="ID_1569811924" MODIFIED="1484204941824" TEXT="PVT test methods hard to add."/>
 <node CREATED="1484204941824" ID="ID_806920418" MODIFIED="1484204941824" TEXT="PVT Development, PVT Distribution and PVT Road Approval needs to be added, more coming"/>
-<node CREATED="1484204941824" MODIFIED="1484204941824" TEXT="New setup of test cases is needed mainly due to global diversity, efficiency and maturity."/>
-<node CREATED="1484204941824" MODIFIED="1484204941824" TEXT="Projects are unique and the product technical content keeps changing rapidly."/>
+<node CREATED="1484204941824" ID="ID_689796054" MODIFIED="1484204941824" TEXT="New setup of test cases is needed mainly due to global diversity, efficiency and maturity."/>
+<node CREATED="1484204941824" ID="ID_776111287" MODIFIED="1484204941824" TEXT="Projects are unique and the product technical content keeps changing rapidly."/>
 </node>
 <node CREATED="1484204696347" ID="ID_74769696" MODIFIED="1484204697564" TEXT="New functionality have been frequently added as well as the global complexity "/>
 <node CREATED="1484204718069" ID="ID_888203690" MODIFIED="1484204719036" TEXT="The current tools can be used as a good reference, new foundation is critical "/>

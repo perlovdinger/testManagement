@@ -1,0 +1,41 @@
+1:software version in ECU
+	man gör inte det idag	
+DTC felkoder	
+-----------------------------------------
+2: korrekt version av base line
+base line kunna läsa ut från vagnen (provledare har ansvar)
+-----------------------------------------
+3: Minska manuell inmatning
+   integrationer med TCP och andra
+---------------------------------------------
+4: läsa mer info från vagnen
+---------------------------------------------
+5: Tablet <-> M-LOGGER
+----------------------------------------------
+6: Vid fel rapportering av logger - även skickas ut konfiguration 
+----------------------------------------------
+7: konfigurations mallar - i test management
+Testing technology
+för PVT är konfiguration ganska standard
+----------------------------------------------
+8: spec krav till provfall
+   logiska strängar för variant familj
+----------------------------------------------
+job editor
+master editor
+site editor ->  Master Editor
+------------------------------------------------
+översättning från engelska för testcase
+------------------------------------------------
+krav spec ändras så ändras inte testcase
+funktions ägares ansvar
+SE-Tool
+TSE-Tool
+phoenix
+------------------------------------------------   
+Test Routine
+nya typer av rutiner
+Editerbara från applikation
+------------------------------------------------
+testRoutine/TestCase versions support    
+   
