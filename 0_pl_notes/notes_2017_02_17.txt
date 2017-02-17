@@ -1,0 +1,72 @@
+
+"functions relaterade" Test
+TestRequest is sent:
+
+Reasons for PVT to test
+	- New hardware or Software of both
+
+------------------------------------------
+Are there one or many TEST for one TestRequest ?
+If many what is the reason ?
+
+Can one TEST involve testing with multiple TestObject ?
+if yes why ?
+
+Does versions of TEST exists ?                           
+
+------------------------------------------
+ 
+* Var kommer software release i från ?
+
+
+Software in Vehicle
+-------------------
+TestRequest:swVersion
+	
+LoggerBinding:
+ Vehicle				FH-1529
+ Chassi					A-743315
+ logger 				80002622
+ TestLeader				Fredrik Svensson
+ 
+ software release		C0_VT_REL03_1.0
+ 
+ ECU software Version	22658112P01
+ 
+--------------------------------------------------------
+Test Management
+PVT 
+--------------------------------------------
+RT
+AET
+Test
+--------------------------------------------
+
+PVT base på den här vagnen
+-----------------------------------------------------------
+Agenda:
+
+Roles:	
+
+Entity model
+
+Process:
+	Test Request comes in
+	Preparation
+	
+	Create Test
+	Perform Test
+
+
+Development Test
+
+Software in vehicle
+
+Other
+-----------------------------------------------------------
+
+Development har med projekt att göra ...
+
+----------------------------------
+master editor - local editor är viktigt
+------------------------------------

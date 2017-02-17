@@ -1,0 +1,14 @@
+process 			= Prepare and Perform Physical Test	
+
+projekt name 		=  TCP - Prepare Test Manager 
+
+application name
+	Yellow pages	
+	name			= Test Management
+	short name		= TEST-MGMT
+
+TestMgmt
+	package com.volvo.testmgmt.util;
+	
+ 
+ 

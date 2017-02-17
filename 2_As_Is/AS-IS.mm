@@ -1,15 +1,34 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1478257159805" ID="ID_80194905" MODIFIED="1484637783798" TEXT="AS-IS">
-<node CREATED="1478266782861" FOLDED="true" ID="ID_751686002" MODIFIED="1485767899435" POSITION="right" TEXT="Process">
-<node CREATED="1478267107903" ID="ID_487845292" MODIFIED="1479765755757" TEXT="Test Request comes in">
+<node CREATED="1478266782861" ID="ID_751686002" MODIFIED="1487259787363" POSITION="right" TEXT="Process">
+<node CREATED="1478267107903" ID="ID_487845292" MODIFIED="1487334116596" TEXT="Test Request comes in">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1478598275820" ID="ID_890088473" MODIFIED="1478598278376" TEXT="GHOST"/>
 <node CREATED="1478598278852" ID="ID_604140242" MODIFIED="1478598282739" TEXT="Mail"/>
+<node COLOR="#ff0000" CREATED="1487260511834" ID="ID_1275528363" MODIFIED="1487260537056" TEXT="Intention with Test ?">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#ff0000" CREATED="1487260699601" ID="ID_542891182" MODIFIED="1487260798403" TEXT="Software version ?"/>
+<node COLOR="#ff0000" CREATED="1487260718819" ID="ID_1109532810" MODIFIED="1487260805066" TEXT="Product Class ?"/>
+</node>
+<node COLOR="#ff0000" CREATED="1487260544183" ID="ID_25924045" MODIFIED="1487260568033" TEXT="Reports for TestRequest ?"/>
+<node COLOR="#006699" CREATED="1478267789433" ID="ID_685881188" MODIFIED="1479765807510" TEXT="Test Request status">
+<node CREATED="1478267798427" ID="ID_1391124024" MODIFIED="1478267798427" TEXT="Test                 Definition"/>
+<node CREATED="1478267798427" ID="ID_1267640794" MODIFIED="1478267798427" TEXT="Open                 Designated PVT Engineer has started to work with preparations. Cost and workload is generated."/>
+<node CREATED="1478267798427" ID="ID_173090083" MODIFIED="1478267798427" TEXT="Start                 All preparations made and testing activities are started"/>
+<node CREATED="1478267798427" ID="ID_1482310805" MODIFIED="1478267798427" TEXT="Done                 All testing activities are done and no more testing is planned"/>
+<node CREATED="1478267798427" ID="ID_1751383177" MODIFIED="1478267798427" TEXT="Closed                 All activities are finished and no more work or cost is expected."/>
+<node CREATED="1478267798427" ID="ID_1915793975" MODIFIED="1478267798427" TEXT="Stopped         All testing activities are temporary stopped to evaluate the situation."/>
+<node CREATED="1478267798427" ID="ID_1628118576" MODIFIED="1478267798427" TEXT="Resumed         All testing resumed after a stop"/>
+<node CREATED="1478267798427" ID="ID_434217061" MODIFIED="1478267798427" TEXT="Aborted         All testing activities are cancelled. New TR is required."/>
+<node CREATED="1478267798427" ID="ID_1618634540" MODIFIED="1478267798427" TEXT="Re-Started The test is for some reason re-started (from the beginning)."/>
+</node>
 </node>
 <node CREATED="1478266816909" ID="ID_1910793091" MODIFIED="1478598419743" TEXT="Preparation">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1478266858402" ID="ID_1979783762" MODIFIED="1478266881274" TEXT="Test Engineer assigned"/>
+<node CREATED="1478266858402" ID="ID_1979783762" MODIFIED="1478266881274" TEXT="Test Engineer assigned">
+<node COLOR="#ff0000" CREATED="1487260572269" ID="ID_939459389" MODIFIED="1487260595921" TEXT="Test Leader or Test Engineer ?"/>
+</node>
 <node CREATED="1478266882296" ID="ID_1674663059" MODIFIED="1478266889253" TEXT="Start up meeting">
 <node CREATED="1478266989039" ID="ID_1636864103" MODIFIED="1478266989804" TEXT="Intention for test &#x2013; focus areas"/>
 <node CREATED="1478266994101" ID="ID_1847498023" MODIFIED="1478267016182" TEXT="test cases informal discussion"/>
@@ -31,7 +50,7 @@
 <node CREATED="1478266915549" ID="ID_126325999" MODIFIED="1478266926641" TEXT="Go/No Go"/>
 </node>
 <node CREATED="1479454278893" ID="ID_64277587" MODIFIED="1479454288923" TEXT="Create Test">
-<node COLOR="#ff0000" CREATED="1479290421752" ID="ID_1669698583" MODIFIED="1479290471773" TEXT="PVT Test Manager">
+<node CREATED="1479290421752" ID="ID_1669698583" MODIFIED="1487260391114" TEXT="PVT Test Manager">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1479290484796" ID="ID_307575914" MODIFIED="1479290490996" TEXT="Test Case Editor"/>
 <node CREATED="1479290511017" ID="ID_524981422" MODIFIED="1479290516208" TEXT="Test Sequences"/>
@@ -53,9 +72,9 @@
 <node CREATED="1478267442996" ID="ID_1714717700" MODIFIED="1478267442996" TEXT="Report error, faults or issues when executing testcases or finding OFD&#x2019;s with the support of the logging equipment installed"/>
 <node CREATED="1478267442996" ID="ID_1239549173" MODIFIED="1478267442996" TEXT="Informs the PVT Engineer of errors in vehicle, equipment or testcases"/>
 <node CREATED="1478267443012" ID="ID_1089213381" MODIFIED="1478267443012" TEXT="Follow up any errors that needs further explanation with the PVT Engineer"/>
-<node CREATED="1478267443012" MODIFIED="1478267443012" TEXT="Performs Daily Inspections on the vehicle to find any errors"/>
-<node CREATED="1478267443012" MODIFIED="1478267443012" TEXT="Perform Weekly Inspections on the vehicle to find any errors"/>
-<node CREATED="1478267443012" MODIFIED="1478267443012" TEXT="Change trailer and load according to plan"/>
+<node CREATED="1478267443012" ID="ID_1733044828" MODIFIED="1478267443012" TEXT="Performs Daily Inspections on the vehicle to find any errors"/>
+<node CREATED="1478267443012" ID="ID_1176774621" MODIFIED="1478267443012" TEXT="Perform Weekly Inspections on the vehicle to find any errors"/>
+<node CREATED="1478267443012" ID="ID_417086969" MODIFIED="1478267443012" TEXT="Change trailer and load according to plan"/>
 </node>
 </node>
 <node CREATED="1478267511986" ID="ID_1788615692" MODIFIED="1478268078559" TEXT="Conclusion phase">
@@ -95,17 +114,6 @@
 <node CREATED="1478268223062" ID="ID_1263622286" MODIFIED="1478268223062" TEXT="PROTUS reports &amp; RON"/>
 <node CREATED="1478268223062" ID="ID_1963772176" MODIFIED="1478268223062" TEXT="Engineering Report (ER)"/>
 </node>
-</node>
-<node COLOR="#006699" CREATED="1478267789433" ID="ID_685881188" MODIFIED="1479765807510" TEXT="Test Request status">
-<node CREATED="1478267798427" ID="ID_1391124024" MODIFIED="1478267798427" TEXT="Test                 Definition"/>
-<node CREATED="1478267798427" ID="ID_1267640794" MODIFIED="1478267798427" TEXT="Open                 Designated PVT Engineer has started to work with preparations. Cost and workload is generated."/>
-<node CREATED="1478267798427" ID="ID_173090083" MODIFIED="1478267798427" TEXT="Start                 All preparations made and testing activities are started"/>
-<node CREATED="1478267798427" ID="ID_1482310805" MODIFIED="1478267798427" TEXT="Done                 All testing activities are done and no more testing is planned"/>
-<node CREATED="1478267798427" ID="ID_1751383177" MODIFIED="1478267798427" TEXT="Closed                 All activities are finished and no more work or cost is expected."/>
-<node CREATED="1478267798427" ID="ID_1915793975" MODIFIED="1478267798427" TEXT="Stopped         All testing activities are temporary stopped to evaluate the situation."/>
-<node CREATED="1478267798427" ID="ID_1628118576" MODIFIED="1478267798427" TEXT="Resumed         All testing resumed after a stop"/>
-<node CREATED="1478267798427" ID="ID_434217061" MODIFIED="1478267798427" TEXT="Aborted         All testing activities are cancelled. New TR is required."/>
-<node CREATED="1478267798427" ID="ID_1618634540" MODIFIED="1478267798427" TEXT="Re-Started The test is for some reason re-started (from the beginning)."/>
 </node>
 </node>
 <node CREATED="1479289980624" ID="ID_694995543" MODIFIED="1484637795732" POSITION="right" TEXT="Applications">
@@ -163,7 +171,7 @@
 <node CREATED="1478269076745" ID="ID_57269426" MODIFIED="1478269076745" TEXT="Measurement Topics"/>
 </node>
 </node>
-<node CREATED="1478258648475" FOLDED="true" ID="ID_1472913979" MODIFIED="1485767878390" TEXT="RDM">
+<node CREATED="1478258648475" ID="ID_1472913979" MODIFIED="1487255819918" TEXT="RDM">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1478259385159" ID="ID_13776046" MODIFIED="1479290159526" TEXT="purpose">
 <font NAME="SansSerif" SIZE="12"/>
@@ -209,7 +217,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1478257170214" FOLDED="true" ID="ID_1669000781" MODIFIED="1485767881840" TEXT="eFACTS Collector">
+<node CREATED="1478257170214" ID="ID_1669000781" MODIFIED="1487255825443" TEXT="eFACTS Collector">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1478257214259" ID="ID_845638573" MODIFIED="1479290194938" TEXT="purpose">
 <font NAME="SansSerif" SIZE="12"/>
@@ -289,7 +297,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1478259865691" FOLDED="true" ID="ID_1761358666" MODIFIED="1485767890051" TEXT="eFACTS Data Refiner">
+<node CREATED="1478259865691" ID="ID_1761358666" MODIFIED="1487255833245" TEXT="eFACTS Data Refiner">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#006699" CREATED="1478259959929" ID="ID_1601957631" MODIFIED="1479798667342" TEXT="purpose">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
